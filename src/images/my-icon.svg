@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 71.53 64.77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #ecb71e;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-6 {
+        fill: #2f2e81;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="35.76" y1="51.32" x2="51.06" y2="51.32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2f2e81"/>
+      <stop offset="1" stop-color="#393f99"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="20.47" x2="35.76" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0" y1="29.34" x2="35.76" y2="29.34" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" y1="29.34" x2="71.53" y2="29.34" xlink:href="#linear-gradient"/>
+  </defs>
+  <polygon class="cls-4" points="35.76 37.88 51.06 64.77 51.06 64.77 35.76 54.86 35.76 37.88"/>
+  <polygon class="cls-1" points="35.76 37.88 20.47 64.77 20.47 64.77 35.76 54.86 35.76 37.88"/>
+  <polygon class="cls-2" points="35.76 44.09 3.58 29.03 3.58 29.03 35.76 31.41 35.76 44.09"/>
+  <polygon class="cls-3" points="35.76 44.09 0 14.6 0 14.6 35.76 25.46 35.76 44.09"/>
+  <polygon class="cls-2" points="35.76 44.09 67.95 29.03 67.95 29.03 35.76 31.41 35.76 44.09"/>
+  <polygon class="cls-5" points="35.76 44.09 71.53 14.6 71.53 14.6 35.76 25.46 35.76 44.09"/>
+  <circle class="cls-6" cx="35.87" cy="16.26" r="5.47"/>
+  <polygon class="cls-2" points="35.76 0 36.76 3.07 39.99 3.07 37.38 4.97 38.38 8.04 35.76 6.14 33.15 8.04 34.15 4.97 31.54 3.07 34.77 3.07 35.76 0"/>
+  <polygon class="cls-2" points="26.23 5.07 27.04 7.56 29.65 7.56 27.54 9.09 28.34 11.58 26.23 10.04 24.12 11.58 24.92 9.09 22.81 7.56 25.42 7.56 26.23 5.07"/>
+  <polygon class="cls-2" points="45.64 5.07 46.45 7.56 49.06 7.56 46.95 9.09 47.75 11.58 45.64 10.04 43.53 11.58 44.34 9.09 42.22 7.56 44.83 7.56 45.64 5.07"/>
+  <polygon class="cls-2" points="52.17 12.76 52.72 14.45 54.5 14.45 53.06 15.5 53.61 17.2 52.17 16.15 50.73 17.2 51.28 15.5 49.84 14.45 51.62 14.45 52.17 12.76"/>
+  <polygon class="cls-2" points="19.36 12.76 19.91 14.45 21.69 14.45 20.25 15.5 20.8 17.2 19.36 16.15 17.92 17.2 18.47 15.5 17.02 14.45 18.81 14.45 19.36 12.76"/>
+</svg>

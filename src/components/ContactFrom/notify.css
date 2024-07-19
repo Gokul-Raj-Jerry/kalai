@@ -1,0 +1,17 @@
+.notification {
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .notification.success {
+    background-color: #c6efce;
+    color: #2e865f;
+    border: 1px solid #2e865f;
+  }
+  
+  .notification.error {
+    background-color: #f5c6cb;
+    color: #a94442;
+    border: 1px solid #a94442;
+  }
